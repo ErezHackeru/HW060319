@@ -1,0 +1,7 @@
+D:\VisualStudio_Projects\HW060319_Dictionary\HW060319_Dictionary\obj\Debug\HW060319_Dictionary.csprojAssemblyReference.cache
+D:\VisualStudio_Projects\HW060319_Dictionary\HW060319_Dictionary\obj\Debug\HW060319_Dictionary.csproj.CoreCompileInputs.cache
+D:\VisualStudio_Projects\HW060319_Dictionary\HW060319_Dictionary\bin\Debug\HW060319_Dictionary.exe.config
+D:\VisualStudio_Projects\HW060319_Dictionary\HW060319_Dictionary\bin\Debug\HW060319_Dictionary.exe
+D:\VisualStudio_Projects\HW060319_Dictionary\HW060319_Dictionary\bin\Debug\HW060319_Dictionary.pdb
+D:\VisualStudio_Projects\HW060319_Dictionary\HW060319_Dictionary\obj\Debug\HW060319_Dictionary.exe
+D:\VisualStudio_Projects\HW060319_Dictionary\HW060319_Dictionary\obj\Debug\HW060319_Dictionary.pdb
